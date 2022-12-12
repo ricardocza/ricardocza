@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <div>
-<img height= "150em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra)&theme=cobalt"
+<img height= "150em" src="https://github-readme-stats.vercel.app/api?username=ricardocza)&theme=cobalt"
 </div>
 
